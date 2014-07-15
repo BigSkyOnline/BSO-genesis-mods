@@ -4,7 +4,7 @@
 Plugin Name: BSO Genesis Mods
 Plugin URI: https://github.com/BigSkyOnline/BSO-genesis-mods/
 Description: Add additional customizations to Genesis Theme.
-Version: 1.8.3
+Version: 1.8.4
 Author: Bradford Knowlton
 Author URI: http://bradknowlton.com/
 License:           GNU General Public License v2
@@ -51,8 +51,8 @@ $output="<style>
     background: none !important;
 }
 div#title-area img {
-	width: 160px;
-	max-width: 50%;
+	width: 50%;
+	max-width: 160px;
 	height: auto;
 }
 </style>";
